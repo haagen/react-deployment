@@ -10,7 +10,10 @@ function App() {
       </p>
       <p>
         And it eaven updates automatically when changed in git.  
-      </p>  
+      </p> 
+      <p>
+        And this was created without a <i>Pull Request</i>!
+      </p> 
     </div>
   );
 }
